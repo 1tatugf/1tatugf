@@ -2,7 +2,6 @@
 
 <div>
   <a href="https://github.com/1tatugf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tatugf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tatugf&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
